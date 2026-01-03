@@ -15,7 +15,6 @@ sns.heatmap(summary_table.iloc[:, :20], annot=True, cmap='YlGnBu')
 plt.title('Clinical Feature Profile by Lung Cancer Type (First 20 Features)')
 plt.ylabel('Cancer Type')
 plt.xlabel('Clinical Attributes')
-plt.show()
 plt.savefig('./04_Reports/clinical_heatmap.png') # Saves the chart as a file
 print("\nSuccess: Heatmap saved as 'clinical_heatmap.png'")
 

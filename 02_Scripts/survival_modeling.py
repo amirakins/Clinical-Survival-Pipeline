@@ -21,7 +21,6 @@ plt.title('Kaplan-Meier Survival Curves by Lung Cancer Type')
 plt.xlabel('Timeline (Months)')
 plt.ylabel('Survival Probability')
 plt.grid(True, linestyle='--', alpha=0.7)
-plt.show()
 plt.savefig('./04_Reports/survival_curve.png')
 print("--- Survival Curve Generated: survival_curve.png ---")
 
