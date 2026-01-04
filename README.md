@@ -29,6 +29,8 @@ This project focuses on the end-to-end processing and statistical analysis of a 
 ![heatmap](https://github.com/amirakins/Clinical-Survival-Pipeline/blob/main/04_Reports/clinical_heatmap.png)
 ## Survival
 ![survival](https://github.com/amirakins/Clinical-Survival-Pipeline/blob/main/04_Reports/survival_curve.png)
+## Dashboard
+![dashboard](https://github.com/amirakins/Clinical-Survival-Pipeline/blob/main/04_Reports/clinical_dashboard.jpg)
 
 ## 📂 Project Structure
 ```text
