@@ -22,7 +22,6 @@ This project focuses on the end-to-end processing and statistical analysis of a 
 * **Python:** Pandas, Matplotlib, Seaborn (Data Engineering & EDA)
 * **SQL (SQLite):** Schema definition, relational constraints, and research views.
 * **Power BI:** Interactive survival dashboards and clinical KPI tracking.
-* **Governance:** Markdown-based Data Dictionary and metadata tracking.
 
 ---
 ## Heatmap
