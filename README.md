@@ -15,6 +15,14 @@ This project focuses on the end-to-end processing and statistical analysis of a 
 * **Statistical Analysis:** Lifelines (Survival Analysis)
 * **Visualization:** Matplotlib, Seaborn
 * **Environment:** OS-agnostic directory automation
+  
+---
+
+## 🛠️ Technical Ecosystem
+* **Python:** Pandas, Matplotlib, Seaborn (Data Engineering & EDA)
+* **SQL (SQLite):** Schema definition, relational constraints, and research views.
+* **Power BI:** Interactive survival dashboards and clinical KPI tracking.
+* **Governance:** Markdown-based Data Dictionary and metadata tracking.
 
 ---
 ## Heatmap
@@ -29,4 +37,4 @@ Lung_Cancer_Project/
 ├── 02_Scripts/            # Python automation scripts
 ├── 03_Clean_Data/         # Imputed and unified datasets
 └── 04_Report/             # Visualizations (Heatmaps, Survival Curves)
-
+└── 05_Database/           # .sql files (Schema and Clinical Queries)
